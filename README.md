@@ -50,6 +50,21 @@ Three things that make the place work:
 | 6 | Check it, fix it, resubmit | As needed |
 | 7 | Claim your reward (if you place) | 5 minutes |
 
+## What a good first entry looks like
+
+Forget the biggest prize on the board. A good first entry is small, finished, and submitted — it
+exists to teach you the loop, not to pay rent. Concretely:
+
+- **One bounty, fully read.** If you can't explain how it's scored in two sentences, you haven't
+  read the rules yet.
+- **The starter, made yours.** Copy the kit's starter in, then change something real: a different
+  approach, a sharper idea, a cleaner result. A starter submitted unchanged is not an entry.
+- **Graded locally before it's submitted.** If the kit grades locally, run it. An entry you have
+  never seen scored is a guess.
+- **Submitted early, then improved.** The deadline is not the plan. Submit a working entry, read
+  what the checks say, fix it, and submit again. The last submission before the deadline is the
+  one that counts — use that.
+
 ## What you need before step 1
 
 - **An AI coding agent.** Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, Qwen Code,
@@ -224,6 +239,19 @@ and neither do your own accounts.
 
 If this guide helped, signing up through [my link](https://make.fun/r/bg2sw27v) (code `bg2sw27v`)
 is a nice way to say thanks.
+
+## Common first-night mistakes
+
+- **Building before the bounty opens.** Sessions that began before the opening can't be entered,
+  no matter how good the code is. Fresh session, after the opening, every time.
+- **Pasting code in from elsewhere.** The checks match your transcripts against the code. Let the
+  agent write the files in the session; pasted code counts against you.
+- **Skipping the local grade.** The server grades exactly like the local command does. If you
+  haven't run it, you're submitting blind.
+- **Submitting once, at the deadline.** The checks will find something — they always do on a first
+  entry. Submit early so there's time to fix and resubmit.
+- **Chasing the biggest prize first.** The biggest bounties draw the strongest fields. Learn the
+  loop on a bounty you can actually finish, then climb.
 
 ## Honest questions
 
